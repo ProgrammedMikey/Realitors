@@ -1,0 +1,9 @@
+City: OceanCove 
+Price: $1,250,000 
+Bedrooms: 3 
+Baths: 1 
+Footage: 1000 sq. ft. 
+Realtor: Mary Urkido 
+Grabber: Won't last long at this price! 
+Description: 
+Enjoy the quiet, lovely garden views and a short walk to golf course!  

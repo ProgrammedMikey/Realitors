@@ -1,0 +1,10 @@
+City: Tomsville 
+Price: $560,000 
+Bedrooms: 7 
+Baths: 3
+Footage: 2000 sq. ft. 
+Realtor: Lee Chong 
+Grabber: A Beautiful Dream House! 
+Description: 
+This House is in very perfect condition! Safe and quiet neihborhood! 
+     

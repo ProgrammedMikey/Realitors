@@ -1,0 +1,9 @@
+City: Pine Beach 
+Price: $150,000 
+Bedrooms: 3 
+Baths: 2 
+Footage: 7000 sq. ft. 
+Realtor: Jose Laden 
+Grabber: A Lazy Man's Paradise! 
+Description: 
+Beautiful two-story townhome looks out to pine canyon. 

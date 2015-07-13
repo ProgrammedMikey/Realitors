@@ -1,0 +1,10 @@
+City: OceanCove 
+Price: $950,000 
+Bedrooms: 5 
+Baths: 3 
+Footage: 3000 sq. ft. 
+Realtor: Tom Ronald 
+Grabber: Fantastic Home with a Fantastic View! 
+Description: 
+You will never get tired of watching the sunset from your living room sofa  
+and the sunrise from your front patio!  
